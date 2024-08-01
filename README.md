@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou Guilherme
 
 
-🧑‍💻 Sobre Mim
+## 🧑‍💻 Sobre Mim
+
 Sou um programador de sistemas de computador especializado em programação de fluxo (LowCode) em uma empresa de desenvolvimento de software de atendimento eletrônico. Com experiência prévia como inspetor de qualidade, monitoro atendimentos para garantir padrões de produção, além de oferecer suporte e treinamento para manter a qualidade dos atendimentos.
 
 
